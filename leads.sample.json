@@ -1,0 +1,27 @@
+[
+  {
+    "company": "Northwind Robotics",
+    "domain": "northwind.ai",
+    "signal": "starred haystack on github; 3 engineers signed up for the docs this week"
+  },
+  {
+    "company": "Meridian Bank",
+    "domain": "meridianbank.com",
+    "signal": "VP of Data downloaded the enterprise governance whitepaper; on-prem / compliance heavy"
+  },
+  {
+    "company": "Loop Health",
+    "domain": "loophealth.io",
+    "signal": "a solo dev opened 4 tutorial pages and asked a question in the community Discord"
+  },
+  {
+    "company": "Atlas Logistics",
+    "domain": "atlas-logistics.com",
+    "signal": "Head of AI booked, then no-showed, a platform demo; large team, procurement-driven"
+  },
+  {
+    "company": "Kessler AI",
+    "domain": "kessler.dev",
+    "signal": "forked a Haystack example repo and starred two others; early-stage, technical founder"
+  }
+]

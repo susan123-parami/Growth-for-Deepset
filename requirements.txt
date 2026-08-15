@@ -1,0 +1,7 @@
+# standalone version
+anthropic>=0.39
+python-dotenv>=1.0
+
+# haystack pipeline version (the deepset-platform one)
+haystack-ai>=2.0
+anthropic-haystack>=1.0
