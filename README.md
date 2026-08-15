@@ -85,7 +85,7 @@ python haystack_pipeline.py   # same logic, Haystack pipeline
 
 ## How it maps to the role
 
-| Their JD asks for | This repo shows |
+| What JD asks for | What I do |
 |---|---|
 | Demand gen as a self-learning system | the feedback loop |
 | Full-funnel, awareness → opportunity | `funnel_stage` + metric chain |
